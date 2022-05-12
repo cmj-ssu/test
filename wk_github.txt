@@ -4,3 +4,4 @@ and version control using Git. It offers the distributed version control
 and source code management (SCM) functionality of Git, plus its own
 
 It is commonly used to host open-source projects. As of November
+2021, Github reports having over 73 million developers and more than
