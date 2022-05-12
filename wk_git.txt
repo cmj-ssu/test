@@ -1,1 +1,2 @@
 Git
+Git is a software for tracking changes in any set of files,
