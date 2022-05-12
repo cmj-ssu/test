@@ -1,5 +1,6 @@
 Git
 Git is a software for tracking changes in any set of files, usually used for
 coordinating work among programmers collaboratively developing source
+code during software development. Its golas include speed, data intergrity, and
 
 Git was originally authored by Linus Torvalds in 2005 for development of the
