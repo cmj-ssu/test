@@ -1,2 +1,4 @@
 Github
 GitHub, Inc. is a provider of Internet hosting for software development and version control using Git.
+
+It is commonly used to host open-source projects. As of November
